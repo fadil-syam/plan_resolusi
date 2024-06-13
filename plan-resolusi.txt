@@ -1,0 +1,3 @@
+lorem20
+- konsisten beljar web 
+ - javascript
