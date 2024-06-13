@@ -1,5 +1,5 @@
 lorem20
 - konsisten beljar web 
  - javascript
- - fokus javascript
  - ngembangin karir di jepang
+ - membuat projek banyak
